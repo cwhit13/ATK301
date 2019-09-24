@@ -1,0 +1,47 @@
+div{
+  background-color: yellow
+  margin: 25px
+}
+h1 {
+  color: red;
+  background-color: yellow
+}
+h2 {
+  color: red;
+  background-color: yellowc
+}
+h3{
+  color: red;
+  background-color: yellow
+}
+h4{
+  color:red;
+  background-color: yellow
+}
+.niche {
+  color: blue
+
+}
+.Music {
+  color: blue
+}
+#target {
+  color: purple
+}
+}
+
+/*a:link {
+   color: #00ff00;
+}*/
+
+a:visited {
+   color: #purple;
+}
+
+a:active {
+   color: #red;
+}
+
+a:hover {
+   color: #ffff00;
+}
