@@ -1,0 +1,99 @@
+
+body {
+  background-image: url(paper.png); font: helvetica;
+}
+.blueboy {color:#588f93;
+background-color:#588f93;
+position: absolute; top: 0px; right: 0px; left: 0px; margin: 0px: auto;}
+.blueboy2 {color:#588f93;
+background-color:#588f93;
+position: absolute; bottom: -370px; right: 0px; left: 0px; margin: 0px: auto;}
+
+u { font-size: 32px}
+h4 {
+  text-align: center;
+  font: helvetica;
+  font-style: helvetica;
+  font-size: 38px;
+  color: black;
+}
+h3 {
+  text-align: center;
+font: helvetica;
+  font-style: normal;
+  font: helvetica;
+  font-size: 40px;
+    line-height: 5px;
+  color: black;
+}
+h5{
+  text-align: center;
+
+
+
+  }
+  h1 {
+  text-align: center;
+font: helvetica;
+font-style: normal;
+font: helvetica;
+  color: black;
+  font-size: 62px;
+}
+
+  .cast {
+    text-align: center;
+    font-family: helvetica;
+    font-style: normal;
+  font: helvetica;
+    font-size: 38px;
+    line-height: 35px;
+    color:#588f93;
+  }
+
+
+p
+  {
+    font-size: 32px;
+    text-align: center;
+  font-family: sans-serif;
+  font-style: normal;
+  font: helvetica;
+    color: black;
+  }
+
+
+
+
+
+
+
+
+  /* CSS */
+  a {
+     color: ##588f93;
+     text-decoration: none;
+  }
+
+  a:link {
+     color: #588f93;
+  }
+
+  a:visited {
+     color: #588f93;
+  }
+
+  a:active {
+     color: #588f93;
+  }
+
+  a:hover {
+     color: white;
+
+  }
+  footer { text-align: center;
+    font-family: sans-serif;
+    font-style: normal;
+    font: helvetica;
+    color:#588f93;
+  }
