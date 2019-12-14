@@ -1,0 +1,154 @@
+header {grid-column: span 4;
+position: sticky;}
+body {
+  background-color: black;
+}
+h1 {
+  font-size: 78px;
+  font-family: 'Playfair Display', serif;
+  font-weight:bold;
+  color: white;
+ }
+
+  h2{
+      font-size: 48px;
+      font-family: 'Playfair Display', serif;
+      color: white;
+    }
+    h3{
+    font-size: 42px;
+  font-family: 'Playfair Display', serif;
+color: white;
+}
+
+h5 {
+font-size: 100px;
+font-family: 'Playfair Display', serif;
+color: white;}
+
+
+nav {
+  position: sticky;
+  float: left;
+display: inline;
+
+}
+ul {
+  position: sticky;
+  display: inline;
+  float: left;
+}
+
+li {
+    position: sticky;
+    width: 100%;
+font-size: 24px;
+text-decoration: none;
+width: 250px;
+display:inline;
+text-indent: 10px;
+background-color: #cc99ff;
+width: 500px;
+margin: auto;
+}
+
+a {
+font-family:sans-serif;
+  color: black;
+  text-decoration: none;
+display: inline;
+}
+p
+{ font-family: 'Playfair Display', serif;
+font-size: 14px;
+float: left;
+color: white;}
+
+
+
+
+.button2 {
+  background-color: #cc99ff;
+  border: none;
+  color: black;
+  padding: 20px;
+  border-radius: 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline;
+  font-size: 24px;
+  font-family: sans-serif;
+  text-indent: 10px;
+  float: left;
+
+}
+.button3 {
+  background-color: #cc99ff;
+  border: none;
+  color: black;
+  padding: 20px;
+  border-radius: 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline;
+  font-size: 24px;
+  font-family: sans-serif;
+  text-indent: 10px;
+  float: left;
+
+}
+.button2:hover{
+  background-color: white;
+  color: black;
+}
+.button3:hover{
+  background-color: white;
+  color: black;
+}
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+<div class="gallery">
+  <a target="_blank" href="UofI_pic3.jpg">
+    <img src="img_UofI_pic3.jpg" alt="art1" width="600" height="400">
+  </a>
+  <div class="desc">back drawing</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="UofI_pic9.jpg">
+    <img src="img_UofI_pic9.jpg" alt="infograph" width="600" height="400">
+  </a>
+  <div class="desc">1st inforgraphic poster</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="UofI_pic10.jpg">
+    <img src="img_UofI_pic10.jpg" alt="productdesign" width="600" height="400">
+  </a>
+  <div class="desc">productdesign</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="UofI_pic6.jpg">
+    <img src="img_UofI_pic6.jpg" alt="lyricbook" width="600" height="400">
+  </a>
+  <div class="desc">lyricbook</div>
+</div>
