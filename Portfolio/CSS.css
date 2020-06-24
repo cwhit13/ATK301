@@ -105,50 +105,12 @@ color: white;}
   background-color: white;
   color: black;
 }
-div.gallery {
-  margin: 5px;
-  border: 1px solid #ccc;
-  float: left;
-  width: 180px;
-}
-
-div.gallery:hover {
-  border: 1px solid #777;
-}
-
-div.gallery img {
-  width: 100%;
-  height: auto;
-}
 
 div.desc {
   padding: 15px;
   text-align: center;
 }
-<div class="gallery">
-  <a target="_blank" href="UofI_pic3.jpg">
-    <img src="img_UofI_pic3.jpg" alt="art1" width="600" height="400">
-  </a>
-  <div class="desc">back drawing</div>
-</div>
 
-<div class="gallery">
-  <a target="_blank" href="UofI_pic9.jpg">
-    <img src="img_UofI_pic9.jpg" alt="infograph" width="600" height="400">
-  </a>
-  <div class="desc">1st inforgraphic poster</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="UofI_pic10.jpg">
-    <img src="img_UofI_pic10.jpg" alt="productdesign" width="600" height="400">
-  </a>
-  <div class="desc">productdesign</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="UofI_pic6.jpg">
-    <img src="img_UofI_pic6.jpg" alt="lyricbook" width="600" height="400">
-  </a>
-  <div class="desc">lyricbook</div>
-</div>
+.gallery {
+  display: flex;
+}
